@@ -23,5 +23,5 @@ The dataset used for this project is of a bank's customers having 8000+ records 
 - PRC_FULL_PAYMENT: Percent of full payment paid by user
 - TENURE: Tenure of credit card service for user
 
-![Elbow method to get the best no of clusters](/images/mrelbow.png)
-![PCA for KMEANS clusters](/images/mrpca.png)
+![Elbow method to get the best no of clusters](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/mrelbow.png)
+![PCA for KMEANS clusters](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/mrpca.png)
